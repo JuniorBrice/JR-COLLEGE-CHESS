@@ -2,9 +2,9 @@
 2-player joystick controlled chess, written in VHDL and implementable on an FPGA.
 
 Images: 
-![IMG_2723](https://github.com/JuniorBrice/JR-COLLEGE-CHESS/assets/79341423/407107e3-6e4e-46e5-a587-59a5aa68f2b0)
+![resized chess opening](https://github.com/JuniorBrice/JR-COLLEGE-CHESS/assets/79341423/76cdf84a-79d0-41e9-ac3e-8b7758e7f841)
 
-![IMG_2724](https://github.com/JuniorBrice/JR-COLLEGE-CHESS/assets/79341423/3e954d73-5590-4f49-8bce-a01ca4f8a3f7)
+![Resided Chess Reset State](https://github.com/JuniorBrice/JR-COLLEGE-CHESS/assets/79341423/526ae8ce-76ae-4791-8e4b-a52952fdc7c3)
 
 Disclaimer:
 This readme won't be able to properly encapsulate all aspects of this chess game. For that reason, I have included a report (in the EXTRAS folder) that does a slightly
