@@ -28,18 +28,27 @@ Logic block return signal.
 vcount (vertical pixel count), vid (video output enable), hs (horizontal sync), and vs (vertical sync) to the GUI block or the proper interface pins.
 
 Capabilities:
--Pieces are constrained to movements only allowed by their type. (I.e., Knights can only move like Knights, and Queens can only move like Queens.)
--Pawns that have not been previously moved can in fact move the initial two squares as usual, if there is nothing blocking their way. They cannot move two squares otherwise.
--Pieces of opposite color can be captured. Pieces of the same color cannot be captured.
--Pawns may not move diagonally unless in the act of capturing, as usual.
--Pawn promotion is functional; however, pawns auto promote to Queen.
--Diagonal movement selection allowed by the joystick.
+-> Pieces are constrained to movements only allowed by their type. (I.e., Knights can only move like Knights, and Queens can only move like Queens.)
+
+-> Pawns that have not been previously moved can in fact move the initial two squares as usual, if there is nothing blocking their way. They cannot move two squares otherwise.
+
+-> Pieces of opposite color can be captured. Pieces of the same color cannot be captured.
+
+-> Pawns may not move diagonally unless in the act of capturing, as usual.
+
+-> Pawn promotion is functional; however, pawns auto promote to Queen.
+
+-> Diagonal movement selection allowed by the joystick.
 
 Areas for Improvement:
 -> No turn order, players can move pieces however they wish regardless of proper turn.
+
 -> No castling functionality.
+
 -> No En passant functionality.
+
 -> No check or checkmate functionality.
+
 -> No collision detection for the Queen, Bishop, or Rook pieces. (I.e., these pieces may behave like a knight and jump over other pieces in its path of legal moves)
 
 Hope you find this interesting!
