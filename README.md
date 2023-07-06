@@ -2,6 +2,7 @@
 2-player joystick controlled chess, written in VHDL and implementable on an FPGA.
 
 Images: 
+
 ![resized stationary](https://github.com/JuniorBrice/JR-COLLEGE-CHESS/assets/79341423/b4e74fdf-d86c-4e5e-aa4d-e434e0bfd549)
 
 ![resized movement](https://github.com/JuniorBrice/JR-COLLEGE-CHESS/assets/79341423/efbc2610-4653-4ecb-a2ef-bd866dbd02c0)
