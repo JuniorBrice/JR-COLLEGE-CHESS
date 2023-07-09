@@ -31,6 +31,10 @@ Logic block return signal.
 ---> The VGA Control block consists of a clock signal modifier module, and a basic control module that takes in both the original and modified clocks, then outputs hcount (horizontal pixel count),
 vcount (vertical pixel count), vid (video output enable), hs (horizontal sync), and vs (vertical sync) to the GUI block or the proper interface pins.
 
+Basic block diagram showing typical dataflow:
+
+![lock diagram](https://github.com/JuniorBrice/JR-COLLEGE-CHESS/assets/79341423/35d22a3e-9e7d-4440-9523-1d5dbe431b00)
+
 Capabilities:
 
 -> Pieces are constrained to movements only allowed by their type. (I.e., Knights can only move like Knights, and Queens can only move like Queens.)
