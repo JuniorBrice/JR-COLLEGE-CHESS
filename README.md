@@ -4,16 +4,14 @@
 Disclaimer:
 This readme won't be able to properly encapsulate all aspects of this chess game. For that reason, I have included a report (in the EXTRAS folder) that does a slightly
 better job. If any confusion arises, I have also commented the code which may help a bit more.
-
+------------------------------------------------
+!!! VIDEO DEMO: https://youtu.be/aGsjSCdU60s !!!
+------------------------------------------------
 Images: 
 
 ![resized stationary](https://github.com/JuniorBrice/JR-COLLEGE-CHESS/assets/79341423/b4e74fdf-d86c-4e5e-aa4d-e434e0bfd549)
 
 ![resized movement](https://github.com/JuniorBrice/JR-COLLEGE-CHESS/assets/79341423/efbc2610-4653-4ecb-a2ef-bd866dbd02c0)
-
-----------------------------------------
-VIDEO DEMO: https://youtu.be/aGsjSCdU60s
-----------------------------------------
 
 Purpose/Objective:
 The purpose of this was to implement a functional version of chess on the Zybo Zynq-7000 FPGA board.
